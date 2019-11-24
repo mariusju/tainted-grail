@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tainted-grail/static/css/main.691f7ece.chunk.css",
+    "main.js": "/tainted-grail/static/js/main.23d98e3e.chunk.js",
+    "main.js.map": "/tainted-grail/static/js/main.23d98e3e.chunk.js.map",
+    "runtime-main.js": "/tainted-grail/static/js/runtime-main.e63d22e3.js",
+    "runtime-main.js.map": "/tainted-grail/static/js/runtime-main.e63d22e3.js.map",
+    "static/js/2.09607981.chunk.js": "/tainted-grail/static/js/2.09607981.chunk.js",
+    "static/js/2.09607981.chunk.js.map": "/tainted-grail/static/js/2.09607981.chunk.js.map",
+    "index.html": "/tainted-grail/index.html",
+    "precache-manifest.1f0a99b43cac7b126a0d5b96279eaa67.js": "/tainted-grail/precache-manifest.1f0a99b43cac7b126a0d5b96279eaa67.js",
+    "service-worker.js": "/tainted-grail/service-worker.js",
+    "static/css/main.691f7ece.chunk.css.map": "/tainted-grail/static/css/main.691f7ece.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e63d22e3.js",
+    "static/js/2.09607981.chunk.js",
+    "static/css/main.691f7ece.chunk.css",
+    "static/js/main.23d98e3e.chunk.js"
+  ]
+}
