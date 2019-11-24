@@ -1,5 +1,28 @@
 .App {
   text-align: center;
+  background: black;
+  height: 100vh;
+  color: teal;
+}
+
+.MehnirList {
+  display: flex;
+}
+
+.Expired {
+  color: red;
+}
+
+.Mehnir {
+  position: relative;
+  height: 30vh;
+  width: 30vh;
+  border: 1px solid teal;
+}
+
+.CloseButton {
+  right: 0vh;
+  position: absolute;
 }
 
 .App-logo {
