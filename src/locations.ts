@@ -5,10 +5,23 @@ export type Location = {
 
 export const locations:Location[] = [
   {number: 101, title: 'Cuanacht Farmhold'},
-  {number: 102, title: 'Hunter\'s Grove'},
-  {number: 103, title: 'Warrior Fair'},
-  {number: 104, title: 'Charred Conclave'},
-  {number: 105, title: 'Forlorn Swords'},
+  {number: 106, title: 'Fore-Dweller Mounds'},
+  {number: 107, title: 'Whitening'},
+  {number: 111, title: 'Underwall'},
+  {number: 115, title: 'Titan\'s Steps'},
+  {number: 118, title: 'Stampede'},
+  {number: 121, title: 'Broken Cuanacht'},
+  {number: 125, title: 'Titan\'s Steps'},
+  {number: 132, title: 'Serene Visage'},
+  {number: 134, title: 'Falfuar'},
+  {number: 135, title: 'Bundorca'},
+  {number: 140, title: 'Dark Morass'},
+  {number: 141, title: 'Wyrdedge'},
+  {number: 147, title: 'Abandoned Falfuar'},
+  {number: 148, title: 'Faldorca'},
+  {number: 152, title: 'Halfway'},
+  {number: 155, title: 'Forest of Whispers'},
+  {number: 158, title: 'Halfway Meeting'}
 ]
 
 export const getLocationTitle = (number:number):string|undefined => {
