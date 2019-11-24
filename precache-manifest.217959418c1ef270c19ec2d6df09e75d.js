@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38fd7f26dc27723cfd7e01eb650d177d",
+    "revision": "dd388b154526e965105f67c32e9456f4",
     "url": "/tainted-grail/index.html"
   },
   {
-    "revision": "6084e637740e38fce49a",
+    "revision": "de4eeaa9a2b8825c5a55",
     "url": "/tainted-grail/static/css/main.691f7ece.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tainted-grail/static/js/2.09607981.chunk.js"
   },
   {
-    "revision": "6084e637740e38fce49a",
-    "url": "/tainted-grail/static/js/main.23d98e3e.chunk.js"
+    "revision": "de4eeaa9a2b8825c5a55",
+    "url": "/tainted-grail/static/js/main.4eb33d4c.chunk.js"
   },
   {
     "revision": "ae673507cb01fb67b7c5",
